@@ -1,3 +1,7 @@
+[![Docker Image Version](https://img.shields.io/docker/v/northwestnodes/otto-apruver?logo=docker&sort=semver)](https://hub.docker.com/r/northwestnodes/otto-apruver)
+[![Docker Pulls](https://img.shields.io/docker/pulls/northwestnodes/otto-apruver?logo=docker)](https://hub.docker.com/r/northwestnodes/otto-apruver)
+[![Docker Image Size](https://img.shields.io/docker/image-size/northwestnodes/otto-apruver/latest?logo=docker)](https://hub.docker.com/r/northwestnodes/otto-apruver)
+
 # **Disclaimer**
 
 This software is provided strictly **“as is”**, **“as available”**, and **“as you probably shouldn’t use it in production but will anyway.”**  
