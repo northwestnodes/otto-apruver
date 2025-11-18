@@ -17,7 +17,6 @@ def load_approvable_states() -> set[str]:
             "REQUIRES_ADMIN_APPROVAL",
             "VERSION_PENDING",
             "PROPOSED",
-            "CANCELLED",
         }
     states = {s.strip().upper() for s in raw.split(",") if s.strip()}
     print(f"[INFO] Loaded APPROVABLE_STATES from env: {states}")
